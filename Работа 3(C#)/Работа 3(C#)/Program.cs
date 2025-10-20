@@ -57,6 +57,7 @@ class Program
         }
         if (count == 0) {
             Console.WriteLine("Массив C пуст");
+            Console.WriteLine("Программа Не рабтает")/// изменение в коде
         }
         else
         {
@@ -69,5 +70,6 @@ class Program
         }
     }
 }
+
 
 
