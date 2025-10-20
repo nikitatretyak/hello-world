@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Работа 3(C#)/1.0.0": {
+        "runtime": {
+          "Работа 3(C#).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Работа 3(C#)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
